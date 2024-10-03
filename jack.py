@@ -1,3 +1,3 @@
-test = 7
+test = 2
 print(test)
 
